@@ -12,7 +12,7 @@
 🎓&nbsp;I completed my Diploma in 2012 at Central Peel Secondary in Brampton, ON.\
 💬&nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️&nbsp;You can email me at nargisehsani445@gmail.com. I'll try to respond as soon as possible!\
-📄&nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/abhishek-singh-dhadwal/) for more details about work experience.
+📄&nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/nargis-ehsani-b64a07341/)) for more details about work experience.
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -29,7 +29,7 @@
 ### 📫 &nbsp; How to reach me:
 
 
-<a href="https://www.linkedin.com/in/abhishek-singh-dhadwal/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/nargis-ehsani-b64a07341/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:nargisehsani445@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 
